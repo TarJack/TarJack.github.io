@@ -1,0 +1,12 @@
+body {
+  background-color:#c2c2c2;
+}
+#title{
+  background-color:#595959;
+  border-radius:25px;
+  border-style:solid;
+  float:left;
+}
+#titlebar{
+float:right;
+}
