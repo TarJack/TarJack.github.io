@@ -1,0 +1,22 @@
+body{
+background-color: #c2c2c2;
+}
+
+#comingsoon {
+text-align:center;
+border-radius: 25px;
+border-color: #595959;
+border-style: solid;
+}
+
+h1 {
+font-family:Arial;
+color: #333333;
+}
+
+h4 {
+font-family:Arial;
+color: #cccccc;
+}
+
+
