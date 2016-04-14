@@ -5,6 +5,7 @@ body{
   background-color:#595959;
   border-radius:25px;
   border-style:solid;
+  border-color:#595959;
 }
 #title{
   float:left;
